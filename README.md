@@ -1,4 +1,4 @@
-All code is in Python
+All code is in Python.
 
 Included in this repository is a jupyter notebook and pdf of my code from my MRI image reconstruction project. 
 At the heart of the project is the idea of K-space (frequency domain) and the spatial domain.
